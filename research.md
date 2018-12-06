@@ -5,50 +5,25 @@ header:
   overlay_image: unsplash-gallery-image-2.jpg
 ---
 
-## Journal papers
-
-- A. Salim, P. Bianchi, and W. Hachem, [Snake: a Stochastic Proximal Gradient Algorithm for Regularized Problems over Large Graphs]({{site.baseurl}}{% link Research/snake18.pdf %}), accepted for publication in _Transaction on Automatic Control_, March 2018. (Here is the [Code](https://github.com/adil-salim/Snake) and a [short version]({{site.baseurl}}{% link Research/snake-nips17.pdf %}) presented at _NIPS 2017 Workshop Black in AI_)
-
-- P. Bianchi, W. Hachem, and A. Salim, [A constant step Forward-Backward algorithm involving random maximal monotone operators]({{site.baseurl}}{% link Research/joca1813_revised.pdf %}), accepted for publication in _Journal of Convex Analysis_, March 2018. (Here is an extended [abstract]({{site.baseurl}}{% link Research/fb-short17.pdf %}))
-
-- P. Bianchi, W. Hachem, and A. Salim, [Constant Step Stochastic Approximations Involving Differential Inclusions: Stability, Long-Run Convergence and Applications]({{site.baseurl}}{% link Research/revised_arxiv_dicst.pdf %}), accepted for publication in _Stochastics_, May 2018. 
 
 ## Conference papers
 
-- A. Salim, P. Bianchi and W. Hachem "[A Splitting Algorithm for Minimization under Stochastic Linear Constraints]({{site.baseurl}}{% link Research/ismp18.pdf %})", _ISMP 2018_, Bordeaux, France. 
+- H. Zenati, M. Romain, C.S Foo, B. Lecouat and V. Chandrasekhar "[Adversarially Learned Anomaly Detection]({{site.baseurl}}{% link Research/icdm18.pdf %})", [Code](https://github.com/houssamzenati/Adversarially-Learned-Anomaly-Detection) IEEE International Conference on Data Mining (ICDM) (2018), Singapore. 
 
-- A. Salim, P. Bianchi, and W. Hachem, "[A Constant Step Stochastic Douglas-Rachford Algorithm with Application to Non Separable Regularization]({{site.baseurl}}{% link Research/icassp18.pdf %})", _IEEE ICASSP 2018_, Calgary, Canada. (Here is the [Technical Report]({{site.baseurl}}{% link Research/TechnicalReport.pdf %}), an extended [abstract]({{site.baseurl}}{% link Research/stodr-short17.pdf %}) of the Technical Report and the [Code](https://github.com/adil-salim/Stochastic-DR))
+- B. Lecouat, C.S Foo, H. Zenati and V. Chandrasekhar "[Semi-Supervised Learning With GANs: Revisiting Manifold Regularization]({{site.baseurl}}{% link Research/iclrw18.pdf %})", [Code](https://github.com/bruno-31/GAN-manifold-regularization) ICLR Workshop Track (2018), Vancouver, Canada 
 
+-  B. Lecouat, K. Chang, C.S Foo, B. Unnikrishnan, J. Brown, H. Zenati, A. Beers, V. Chandrasekhar, J. Kalpathy-Cramer and P. Krishnaswamy "[Semi-Supervised Deep Learning for Abnormality Classification in Retinal
+  Images] Machine Learning for Health (ML4H) Workshop at NeurIPS 2018, Montréal, Canada.
 
-- A. Salim, P. Bianchi, and W. Hachem, "[Snake: a Stochastic Proximal Gradient Algorithm for Regularized Problems over Large Graphs]({{site.baseurl}}{% link Research/cap2017.pdf %})", _CAp 2017_, Grenoble, France.
+## Pre-prints
 
+- H. Zenati, C.S Foo, B. Lecouat, G.Manek and V. Chandrasekhar "[Efficient GAN-Based Anomaly Detection]({{site.baseurl}}{% link Research/iclrws18.pdf %})", [Code](https://github.com/houssamzenati/Efficient-GAN-Anomaly-Detection) arXiv.
 
-- P. Bianchi, W. Hachem, and A. Salim "[Convergence d'un algorithme du gradient proximal stochastique à pas constant et généralisation aux opérateurs monotones aléatoires]({{site.baseurl}}{% link Research/sbh_gretsi17.pdf %})", _GRETSI 2017_, Juan-les-Pins, France.
+- P. Mertikopoulos, B. Lecouat, H. Zenati, C.S. Foo, V. Chandrasekhar, G. Piliouras "[Mirror descent in saddle-point problems: Going the extra (gradient) mile]({{site.baseurl}}{% link Research/panayotis.pdf %})", arXiv.
 
-
-- A. Salim, P. Bianchi, and W. Hachem, "[A Stochastic Proximal Point Algorithm for Total Variation Regularization over Large Scale Graphs]({{site.baseurl}}{% link Research/proxtv.pdf %})", _IEEE CDC 2016_, Las Vegas, USA.
-
-
-- R. Mourya, P. Bianchi, A. Salim and C. Richard, "[An Adaptive Distributed Asynchronous Algorithm with Application to Target Localization]({{site.baseurl}}{% link Research/mourya2017adaptive.pdf %})", _IEEE CAMSAP 2017_, Curacao, Dutch Antilles. 
-
-- P. Bianchi, W. Hachem and A. Salim, "Building Stochastic Optimization Algorithms with Random Monotone Operators", _EUCCO 2016_, Leuven, Belgium. 
-
-
-## Reports
-
-- Master's thesis, [Processus à accroissements libres]({{site.baseurl}}{% link Research/memoire-de-m2.pdf %}), under the supervision of [Philippe Biane](http://igm.univ-mlv.fr/~biane/)
-
-- Intership report, [Méthodes séquentielles de traitement de données]({{site.baseurl}}{% link Research/rapport-de-stage.pdf %}), under the supervision of [Florian Maire](https://maths.ucd.ie/~fmaire/)
-
-## Reviewing activity
-
-I have reviewed papers for:
-
-- IEEE Transactions on Signal and Information Processing over Networks
-- IEEE Transactions on Information Theory
 
 ## Awards
 
-- **2018** _GDR ISIS_ Travel Grant for PhD mobility at EPFL
-- **2017** _NIPS Workshop Black in AI_ Travel Grant
-- **2009 - 2012** Merit Scholarship
+- **2018** _IEEE ICDM_ Student Travel Award
+- **2017** _A*STAR_ Singapore International Pre-Graduate Award 
+

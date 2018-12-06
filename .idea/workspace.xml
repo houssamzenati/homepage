@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ab1c0e2-0135-4ef8-80f5-abff561ae343" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/TechnicalReport.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/cap2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/fb-short17.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/icassp18.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/ismp18.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/joca1813_revised.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/memoire-de-m2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/mourya2017adaptive.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/proxtv.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/rapport-de-stage.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/revised.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/revised_arxiv_dicst.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/revised_fb.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/sbh_gretsi17.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/snake-nips17.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/snake18.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/stodr-short17.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research/stodr17.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talks/fjml.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talks/odissee.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talks/snake_cap.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/as.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctorant.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phd-student.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/research.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talks.md" beforeDir="false" afterPath="$PROJECT_DIR$/talks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teaching.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="284" selection-start-line="6" selection-start-column="284" selection-end-line="6" selection-end-column="284" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/googlec579800df19ca111.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/talks.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="11" selection-start-line="11" selection-end-line="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/research.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/Personal/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_data/index/education.yml" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/talks.md" />
+        <option value="$PROJECT_DIR$/teaching.md" />
+        <option value="$PROJECT_DIR$/_data/navigation.yml" />
+        <option value="$PROJECT_DIR$/research.md" />
+        <option value="$PROJECT_DIR$/index.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="937" />
+    <option name="height" value="701" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="homepage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homepage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homepage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homepage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="Personal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homepage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="Research" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ab1c0e2-0135-4ef8-80f5-abff561ae343" name="Default Changelist" comment="" />
+      <created>1544119951777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544119951777</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1613" height="1025" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24968554" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/robots.txt" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/LICENSE" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/feed.xml" />
+    <entry file="file://$PROJECT_DIR$/static/assets/img/default.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/assets/img/favicon.ico" />
+    <entry file="file://$PROJECT_DIR$/static/assets/img/search/cb-search.png" />
+    <entry file="file://$PROJECT_DIR$/static/assets/img/search/cb-close.png" />
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/avatar.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/google.png" />
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/avatar_all.png" />
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/header_one.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/header_two.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/jekyll.png" />
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/profil.JPG" />
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/word_map.png" />
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/shattered.png" />
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/python.png" />
+    <entry file="file://$PROJECT_DIR$/static/assets/app-20180125.min.css" />
+    <entry file="file://$PROJECT_DIR$/static/assets/app-20180125.min.js" />
+    <entry file="file://$PROJECT_DIR$/static/assets/blog-20180125.min.js" />
+    <entry file="file://$PROJECT_DIR$/static/locales/zh.json" />
+    <entry file="file://$PROJECT_DIR$/static/slick/ajax-loader.gif" />
+    <entry file="file://$PROJECT_DIR$/static/slick/slick.css" />
+    <entry file="file://$PROJECT_DIR$/static/slick/slick.min.js" />
+    <entry file="file://$PROJECT_DIR$/static/slick/slick-theme.css" />
+    <entry file="file://$PROJECT_DIR$/static/locales/en.json" />
+    <entry file="file://$PROJECT_DIR$/_data/index/education.yml" />
+    <entry file="file://$PROJECT_DIR$/_data/index/projects.yml" />
+    <entry file="file://$PROJECT_DIR$/static/js/i18next.min.js" />
+    <entry file="file://$PROJECT_DIR$/_includes/sections/links.html" />
+    <entry file="file://$PROJECT_DIR$/_includes/sections/career.html" />
+    <entry file="file://$PROJECT_DIR$/_includes/sections/projects.html" />
+    <entry file="file://$PROJECT_DIR$/_includes/sections/skills.html" />
+    <entry file="file://$PROJECT_DIR$/_includes/sections/about.html" />
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/as.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/Teaching/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/talks.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teaching.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googlec579800df19ca111.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/Personal/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/research.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="284" selection-start-line="6" selection-start-column="284" selection-end-line="6" selection-end-column="284" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

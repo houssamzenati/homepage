@@ -6,9 +6,6 @@ header:
 ---
 
 
-- [Stochastic Proximal Gradient algorithm]({{site.baseurl}}{% link Talks/fjml.pdf %}), France / Japan Machine Learning Workshop, September 2017, Paris
+- [Adversarially Learned Anomaly Detection]({{site.baseurl}}{% link Talks/alad.pdf %}), IEEE ICDM 2018, Singapore
 
-- [Distributed Douglas Rachford algorithm]({{site.baseurl}}{% link Talks/odissee.pdf %}), ANR ODISSEE, November 2017, Nice
-
-- [Snake]({{site.baseurl}}{% link Talks/snake_cap.pdf %}), CAp 2017, June 2017, Grenoble
 
