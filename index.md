@@ -4,5 +4,4 @@ header:
 ---
 
 
-I'm a final year PhD student at Télécom ParisTech, under the supervision of [Pascal Bianchi](https://bianchi.wp.imt.fr/), [Walid Hachem](http://www-syscom.univ-mlv.fr/~whachem/) and [Jérémie Jakubowicz](http://www-public.tem-tsp.eu/~jakubowi/) in the S2A (Signal, Statistics and Learning) team. My PhD work is about stochastic approximation, optimization and machine learning. I received the Masters degrees in 2015 from ENSAE ParisTech, where I studied statistics, and from Paris XI University, where I studied advanced probability. Here is my CV ([english]({{site.baseurl}}{% link phd-student.pdf %}) or [french]({{site.baseurl}}{% link doctorant.pdf %})).
-
+Hi! I am a Master's student at CentraleSupélec and Ecole Normale Supérieure Paris-Saclay. I study applied mathematics and computer science. Previously, I have been working on Deep Reinforcement Learning in Tokyo and Computer Vision and Deep Learning in Singapore.

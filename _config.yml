@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Homepage
-name: Adil Salim
+name: Houssam Zenati
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://houssamzenati.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #repository_url: http://www.google.com
 # Build settings
@@ -27,11 +27,11 @@ minimal_mistakes_skin: "dark"
 
 # Site Author
 author:
-  name             : "Adil Salim"
+  name             : "Houssam Zenati"
   avatar           : "as.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Third year PhD student at Télécom ParisTech"
-  location         : "E408, 46 rue Barrault, Paris 13"
-  email            : "adil.salim@telecom-paristech.fr"
+  bio              : "Final year Master student at CentraleSupélec and ENS Paris-Saclay"
+  location         : 
+  email            : "houssam.zenati@student.ecp.fr"
   uri              :
   bitbucket        :
   codepen          :
@@ -39,12 +39,12 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "adil-salim"
+  github           : "houssamzenati"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "adil-salim-56253499"
+  linkedin         : "houssam-zenati"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
