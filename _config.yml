@@ -16,7 +16,7 @@
 title: Homepage
 name: Houssam Zenati
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://houssamzenati.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
+url: https://houssamzenati.github.io/homepage # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #repository_url: http://www.google.com
 # Build settings
