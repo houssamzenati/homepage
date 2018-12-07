@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ab1c0e2-0135-4ef8-80f5-abff561ae343" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/TechnicalReport.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/cap2017.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/fb-short17.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/icassp18.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/ismp18.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/joca1813_revised.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/memoire-de-m2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/mourya2017adaptive.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/proxtv.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/rapport-de-stage.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/revised.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/revised_arxiv_dicst.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/revised_fb.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/sbh_gretsi17.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/snake-nips17.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/snake18.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/stodr-short17.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research/stodr17.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Talks/fjml.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Talks/odissee.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Talks/snake_cap.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/as.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctorant.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phd-student.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/research.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talks.md" beforeDir="false" afterPath="$PROJECT_DIR$/talks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teaching.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +18,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="90">
-                <caret line="6" column="284" selection-start-line="6" selection-start-column="284" selection-end-line="6" selection-end-column="284" />
+                <caret line="6" column="324" selection-start-line="6" selection-start-column="324" selection-end-line="6" selection-end-column="324" />
               </first_editor>
               <second_editor />
             </state>
@@ -91,7 +61,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="255">
-                <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+                <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -115,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
+            <state relative-caret-position="825">
               <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
             </state>
           </provider>
@@ -161,6 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,11 +164,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../romainvial.github.io" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -226,7 +196,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1613" height="1025" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24968554" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -288,18 +257,21 @@
     <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+    <entry file="file://$PROJECT_DIR$/as.jpg" />
+    <entry file="file://$PROJECT_DIR$/_site/Teaching/index.html" />
+    <entry file="file://$PROJECT_DIR$/teaching.md" />
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="324" selection-start-line="6" selection-start-column="324" selection-end-line="6" selection-end-column="324" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/as.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
@@ -308,14 +280,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/Teaching/index.html">
+    <entry file="file://$PROJECT_DIR$/googlec579800df19ca111.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/talks.md">
@@ -328,46 +293,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teaching.md">
+    <entry file="file://$PROJECT_DIR$/research.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/googlec579800df19ca111.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/Personal/index.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/research.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="284" selection-start-line="6" selection-start-column="284" selection-end-line="6" selection-end-column="284" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
