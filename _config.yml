@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Homepage
-name: Houssam Zenatix
+name: Houssam Zenati
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://houssamzenati.github.io/homepage # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -22,12 +22,11 @@ url: https://houssamzenati.github.io/homepage # the base hostname & protocol for
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.14.1"
-
 minimal_mistakes_skin: "contrast"
 
 # Site Author
 author:
-  name             : "Houssam Zenati"
+  name             : "Houssam Zenatos"
   avatar           : "as.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Final year Master student at CentraleSupélec and ENS Paris-Saclay"
   location         : 
