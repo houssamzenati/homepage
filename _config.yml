@@ -21,9 +21,9 @@ url: https://houssamzenati.github.io/homepage # the base hostname & protocol for
 #repository_url: http://www.google.com
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.14.1"
 
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "contrast"
 
 # Site Author
 author:
